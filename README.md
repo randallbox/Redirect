@@ -1,2 +1,2 @@
 # Redirect
-Redirect to my profile
+Moved: Please see https://github.com/domainsvcs
